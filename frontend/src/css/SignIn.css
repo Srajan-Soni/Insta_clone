@@ -1,0 +1,41 @@
+.signIn {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1lN1hGZAj0MpZ1ZoN7tt7q38JyzTvjmSMQ&usqp=CAU");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center; /* Centering the form horizontally */
+    align-items: center;
+    padding: 0 20px; /* Adding padding to create space from edges */
+  }
+  
+  .loginForm {
+    background-color: #ffffff;
+    padding: 50px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 10px; /* Increased border-radius for a smoother look */
+    max-width: 500px; /* Increased maximum width for better visibility */
+  }
+  
+  .loginForm input {
+    margin-bottom: 20px; /* Adding gap between inputs */
+  }
+  
+  .loginForm2 {
+    background-color: rgba(255, 255, 255, 0.8); /* Adjusted transparency for better visibility */
+    padding: 20px;
+    margin-top: 20px; /* Increased margin-top for separation */
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 10px; /* Increased border-radius for a smoother look */
+  }
+  
+  #login-btn {
+    background-color: #007bff; /* Adjusted button color */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 15px 30px; /* Increased padding for better clickability */
+    cursor: pointer;
+    margin-top: 20px; /* Adjusted margin-top for better alignment */
+  }
+  
